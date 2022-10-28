@@ -1,18 +1,14 @@
 ![Department for Artificial Intelligence][ailab-icon-light]
 ![Department for Artificial Intelligence][ailab-icon-dark]
 
-The Department for Artificial Intelligence (E3) is concerned mainly with research and development in information technologies with emphasis on 
-artificial intelligence. The main research areas are: (a) data analysis with emphasis on text, web and cross-modal data, (b) scalable real-time 
-data analysis, (c) visualization of complex data, (d) semantic technologies, (e) language technologies.
+The [Department for Artificial Intelligence][ailab], at the [Jožef Stefan Institute][jsi] in Slovenia, is concerned mainly with research and development in 
+information technologies with emphasis on artificial intelligence. The main research areas are: (a) data analysis with emphasis on text, web and 
+cross-modal data, (b) scalable real-time data analysis, (c) visualization of complex data, (d) semantic technologies, (e) language technologies.
 
 ### Quick Start
 
 - [TODO][todo]
 - [TODO][todo]
-
-### External Resources
-
-- [E3 Website][ailab]
 
 <!-- icons -->
 [ailab-icon-dark]: https://user-images.githubusercontent.com/9943382/198714147-b3c9aa97-3cdb-4a66-bd90-b686a546b183.png#gh-dark-mode-only
@@ -20,4 +16,5 @@ data analysis, (c) visualization of complex data, (d) semantic technologies, (e)
 
 <!-- links -->
 [ailab]: https://ailab.ijs.si
+[jsi]: https://ijs.si/ijsw
 [todo]: ...
