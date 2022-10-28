@@ -7,7 +7,7 @@ cross-modal data, (b) scalable real-time data analysis, (c) visualization of com
 
 ### Quick Start
 
-- [TODO][todo]
+- [E3 Technology Stack][tech-stack]
 - [TODO][todo]
 
 <!-- icons -->
@@ -17,4 +17,7 @@ cross-modal data, (b) scalable real-time data analysis, (c) visualization of com
 <!-- links -->
 [ailab]: https://ailab.ijs.si
 [jsi]: https://ijs.si/ijsw
+
+[tech-stack]: https://github.com/E3-JSI/.github/wiki/E3-technology-stack
+
 [todo]: ...
