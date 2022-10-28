@@ -7,8 +7,8 @@ data analysis, (c) visualization of complex data, (d) semantic technologies, (e)
 
 ### Quick Start
 
-- [Technology Stack][todo]
-- [Student Mentorship][todo]
+- [TODO][todo]
+- [TODO][todo]
 
 ### External Resources
 
