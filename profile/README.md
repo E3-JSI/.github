@@ -7,7 +7,7 @@ cross-modal data, (b) scalable real-time data analysis, (c) visualization of com
 
 ### Quick Start
 
-- [E3 Technology Stack][tech-stack]
+- [E3 technology stack][tech-stack]
 - [TODO][todo]
 
 <!-- icons -->
