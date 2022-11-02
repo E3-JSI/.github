@@ -1,9 +1,15 @@
 ![Department for Artificial Intelligence][ailab-icon-light]
 ![Department for Artificial Intelligence][ailab-icon-dark]
 
+
 The [Department for Artificial Intelligence][ailab], at the [Jožef Stefan Institute][jsi] in Slovenia, is concerned mainly with research and development in 
-information technologies with emphasis on artificial intelligence. The main research areas are: (a) data analysis with emphasis on text, web and 
-cross-modal data, (b) scalable real-time data analysis, (c) visualization of complex data, (d) semantic technologies, (e) language technologies.
+information technologies with emphasis on artificial intelligence. The main research areas are: 
+- data analysis with emphasis on text, 
+- web and cross-modal data, 
+- scalable real-time data analysis, 
+- visualization of complex data, 
+- semantic technologies, 
+- language technologies.
 
 
 <!-- icons -->
