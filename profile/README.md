@@ -5,10 +5,6 @@ The [Department for Artificial Intelligence][ailab], at the [Jožef Stefan Insti
 information technologies with emphasis on artificial intelligence. The main research areas are: (a) data analysis with emphasis on text, web and 
 cross-modal data, (b) scalable real-time data analysis, (c) visualization of complex data, (d) semantic technologies, (e) language technologies.
 
-### Quick Start
-
-- [E3 technology stack][tech-stack]
-- [TODO][todo]
 
 <!-- icons -->
 [ailab-icon-dark]: https://user-images.githubusercontent.com/9943382/198714147-b3c9aa97-3cdb-4a66-bd90-b686a546b183.png#gh-dark-mode-only
@@ -17,7 +13,3 @@ cross-modal data, (b) scalable real-time data analysis, (c) visualization of com
 <!-- links -->
 [ailab]: https://ailab.ijs.si
 [jsi]: https://ijs.si/ijsw
-
-[tech-stack]: https://github.com/E3-JSI/.github/wiki/E3-technology-stack
-
-[todo]: ...
