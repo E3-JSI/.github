@@ -1,0 +1,16 @@
+name: Question
+description: Give a question regarding the project
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: textarea
+    id: question
+    attributes:
+      label: What is your question?
+      description: Do you have a question regarding the project?
+      placeholder: Provide a detailed description of what you are interested in.
+    validations:
+      required: true
