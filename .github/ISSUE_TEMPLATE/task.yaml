@@ -3,6 +3,7 @@ description: Create a new task
 title: '[TASK] '
 labels: ['task']
 assignees: []
+type: "task"
 body:
   - type: textarea
     id: description
